@@ -21,11 +21,11 @@
 
 ## 🧠 About Me
 
-I'm a **Security Engineer** focused on cloud-native threat detection, SIEM engineering, and applying ML to security problems. I ship Python, Bash, and Terraform across detective and preventive controls — from CloudTrail pipelines and anomaly models to encrypted threat intel sharing.
+I'm a **Security Engineer** focused on cloud-native threat detection, SIEM engineering, and applying ML to security problems. I ship Python, Bash, and Terraform across detective and preventive controls from CloudTrail pipelines and anomaly models to encrypted threat intel sharing.
 
-- 🎓 **M.S. Cybersecurity** — University of Houston (Aug 2024 – May 2026)
-- 🏢 **Security Analyst Intern** — Peoples Consulting Group (SaaS Platform Security)
-- 🔐 **Certs:** AWS Solutions Architect – Associate · CompTIA Security+ · HTB CDSA (Target: Jun 2026)
+- 🎓 **M.S. Cybersecurity** - University of Houston (Aug 2024 – May 2026)
+- 🏢 **Security Analyst Intern** - Peoples Consulting Group (SaaS Platform Security)
+- 🔐 **Certs:** AWS Solutions Architect - Associate · CompTIA Security+ · HTB CDSA (Target: Jun 2026)
 - 🌱 Currently working toward **HTB Certified Defensive Security Analyst**
 - 📍 Houston, TX · Open to full-time Security/Detection Engineering roles
 
@@ -43,11 +43,11 @@ End-to-end pipeline ingesting **AWS CloudTrail + Zeek logs**, running **Isolatio
 ### 🤖 AI-Powered Phishing Detection System
 > Python · BERT · scikit-learn · AWS Lambda · API Gateway · CloudWatch
 
-Fine-tuned **BERT classifier** over 58K samples — **96% precision, <2% false-positive rate** — deployed serverlessly on AWS Lambda behind API Gateway with continuous indicator refresh from PhishTank/OpenPhish feeds.
+Fine-tuned **BERT classifier** over 58K samples - **96% precision, <2% false-positive rate** - deployed serverlessly on AWS Lambda behind API Gateway with continuous indicator refresh from PhishTank/OpenPhish feeds.
 
 ---
 
-### 🔒 [Privacy-Preserving Threat Intelligence](https://github.com/suryarsc/homomorphic-encryption) — Homomorphic Encryption
+### 🔒 [Privacy-Preserving Threat Intelligence](https://github.com/suryarsc/homomorphic-encryption) - Homomorphic Encryption
 > Python · Microsoft SEAL · CKKS · BFV · Logistic Regression
 
 CKKS-based prototype enabling **encrypted IOC similarity search** across tenants without exposing raw indicators. Benchmarked CKKS vs BFV for encrypted ML inference — validated within **0.5% of plaintext accuracy** on 10K samples.
@@ -110,4 +110,4 @@ CKKS-based prototype enabling **encrypted IOC similarity search** across tenants
 
 I'm actively looking for **full-time Security Engineering / Detection Engineering roles**. If you're building security tooling, detection pipelines, or cloud security programs — let's talk.
 
-📧 surya.ssr1729@gmail.com · [LinkedIn](https://linkedin.com/in/suryarsc)
+📧 surya.ssr1729@gmail.com · [LinkedIn](https://linkedin.com/in/suryasai666)
