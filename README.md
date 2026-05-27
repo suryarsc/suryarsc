@@ -91,23 +91,14 @@ CKKS-based prototype enabling **encrypted IOC similarity search** across tenants
 
 | Certification | Status |
 |---|---|
-| AWS Certified Solutions Architect – Associate | ✅ Active |
+| AWS Certified Solutions Architect - Associate | ✅ Active |
 | CompTIA Security+ | ✅ Active |
 | HTB Certified Defensive Security Analyst (CDSA) | 🎯 Target: June 2026 |
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryarsc&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryarsc&layout=compact&theme=dark&hide_border=true" height="160"/>
-</p>
-
----
-
 ## 📬 Let's Connect
 
-I'm actively looking for **full-time Security Engineering / Detection Engineering roles**. If you're building security tooling, detection pipelines, or cloud security programs — let's talk.
+I'm actively looking for **full-time Security Engineering / Detection Engineering roles**. If you're building security tooling, detection pipelines, or cloud security programs - let's talk.
 
 📧 surya.ssr1729@gmail.com · [LinkedIn](https://linkedin.com/in/suryasai666)
