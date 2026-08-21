@@ -25,9 +25,9 @@ I'm a **Security Engineer** focused on cloud-native threat detection, SIEM engin
 
 - 🎓 **M.S. Cybersecurity** - University of Houston (Aug 2024 – May 2026)
 - 🏢 **Security Analyst Intern** - Peoples Consulting Group (SaaS Platform Security)
-- 🔐 **Certs:** AWS Solutions Architect - Associate · CompTIA Security+ · HTB CDSA (Target: Jun 2026)
+- 🔐 **Certs:** AWS Solutions Architect - Associate · CompTIA Security+
 - 🌱 Currently working toward **HTB Certified Defensive Security Analyst**
-- 📍 Houston, TX · Open to full-time Security/Detection Engineering roles
+- 📍 Houston, TX · Open to full-time Cloud/Detection Engineering roles
 
 ---
 
@@ -93,12 +93,11 @@ CKKS-based prototype enabling **encrypted IOC similarity search** across tenants
 |---|---|
 | AWS Certified Solutions Architect - Associate | ✅ Active |
 | CompTIA Security+ | ✅ Active |
-| HTB Certified Defensive Security Analyst (CDSA) | 🎯 Target: June 2026 |
 
 ---
 
 ## 📬 Let's Connect
 
-I'm actively looking for **full-time Security Engineering / Detection Engineering roles**. If you're building security tooling, detection pipelines, or cloud security programs - let's talk.
+I'm actively looking for **full-time Cloud / Detection Engineering roles**. If you're building security tooling, detection pipelines, or cloud security programs - let's talk.
 
 📧 surya.ssr1729@gmail.com · [LinkedIn](https://linkedin.com/in/suryasai666)
